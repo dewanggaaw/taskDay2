@@ -1,0 +1,44 @@
+.textbox{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.facebook{
+    font-size: 60px;
+    color: blue;
+}
+
+.teks1{
+    font-size: 30px;
+}
+
+.login{
+    height: 50px;
+    width: 200px;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    font-style: bold;
+    color: white;
+}
+.formlogin{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(236, 213, 183);
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-left: 800px;
+    float: left;
+}
+
+.forget{
+    padding-left: 40px;
+}
+
+.register{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(43, 187, 14);
+    font-size: 20px;
+    font-style: bold;
+    color: white;
+}
